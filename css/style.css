@@ -26,7 +26,7 @@ h2 {
 .restaurant-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 27px;
+  gap: 23px;
   margin-left: 40px;
   margin-right:40px;
   justify-content: center;
@@ -107,11 +107,6 @@ h2 {
   padding: 5px;
 }
 
-
-/* .info {
-  text-align: left;
-  margin-top: 10px;
-} */
 .rating {
   font-size: 14px;
   font-weight: 500;
@@ -169,6 +164,9 @@ h2 {
   cursor: pointer;
  
 
+}
+.view_btn i {
+  font-size: 14px;
 }
 
 @media (max-width: 768px) 
